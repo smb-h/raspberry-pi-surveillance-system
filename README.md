@@ -20,3 +20,18 @@ This project implements a Raspberry Pi-based surveillance system, providing a co
 
    ```bash
    git clone https://github.com/your-username/raspberry-pi-surveillance-system.git
+   ```
+
+## Usage
+
+   ```bash
+   python rpi_camera_surveillance_system.py
+   ```
+
+## Contributors
+
+- SMBH
+
+## License
+
+This project is licensed under the MIT - see the LICENSE file for details.
